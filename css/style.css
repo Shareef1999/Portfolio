@@ -115,6 +115,14 @@ a:hover {
   float: right;
   margin-left: 30px;
 }
+.github {
+  text-decoration: underline;
+  color: #11999E;
+  font-weight: thicker;
+}
+.github:hover {
+  color:crimson;
+}
 .btn {
   background: #27d6c2;
   background-image: -webkit-linear-gradient(top, #27d6c2, #041a17);
